@@ -1,0 +1,80 @@
+
+*{
+	margin:0px;
+}
+body{
+	font-family: 'Heebo', sans-serif;
+	background: url(../img/gifimg.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.container{
+	width: 450px;
+    margin: 10% auto;
+    background-image: url(../img/bg1.jpg);
+    padding: 40px;
+}
+.login-section{
+
+}
+.login-section img{
+	width:150px;
+	height: 150px;
+	margin:0 auto;
+	display:block;
+}
+.login-section h3{
+	color: rgb(221, 68, 81);
+	text-align: center;
+	margin:20px;
+	font-size:30px;
+}
+.name{
+	width: 90%;
+	padding: 10px 15px;
+	margin-bottom: 10px;
+
+}
+.btn{
+	background-color:rgb(221, 68, 81);
+	color: white;
+	padding:10px 15px;
+	margin: 0 auto;
+	display: block;
+	border:none;
+	text-transform: uppercase;
+	font-size:15px;
+
+
+}
+.btn:hover{
+	cursor:pointer;
+	box-shadow: 2px 4px 5px red;
+	-webkit-transition:0.8s ease;
+	-moz-transition:0.8s ease;
+	-o-transition:0.8s ease;
+	
+}
+h5{
+	font-family: 'Aguafina Script', cursive;
+	text-align:center;
+	margin-top: 0px;
+	font-size:20px;
+	color:#2f4f4f;
+
+}
+.a{
+	background-color: rgb(119,100,67);
+	color:white;
+	padding:1px;
+	text-decoration: none;
+	margin-bottom:10px;
+}
+.b{
+	background-color: rgb(221,68,81);
+	color:white;
+	padding:1px;
+	text-decoration: none;
+	margin-top:10px;
+
+}
